@@ -50,15 +50,14 @@ body.dark{
 }
 
 .navlist{
-    display: flex;
     width:70%;
+    display: flex;
     background-color: var(--sidebar-color);
-    align-items: stretch;
 }
 
 .navlist li{
 margin-top: 22px;
-margin-left: 40px;
+margin-left: 20px;
 list-style: none;
 padding:5px;
 
@@ -84,7 +83,7 @@ padding:5px;
     width:30%;
     background-color: var(--sidebar-color);
     text-align: right;
-}
+} 
 
 .appname{
     margin-left: 20px;
@@ -96,6 +95,7 @@ padding:5px;
 .appname:hover{
     color:rgb(82, 82, 151);
 }
+
 
 .logoimage img{
     margin-top: 9px;
