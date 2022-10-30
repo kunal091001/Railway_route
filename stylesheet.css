@@ -80,6 +80,7 @@ padding:5px;
 }
 
 .rightnav{
+    display: flex;
     width:30%;
     background-color: var(--sidebar-color);
     text-align: right;
@@ -98,6 +99,7 @@ padding:5px;
 
 
 .logoimage img{
+    display: flex;
     margin-top: 9px;
     border-radius:6px;
 }
