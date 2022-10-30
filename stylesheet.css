@@ -80,6 +80,7 @@ padding:5px;
 }
 
 .rightnav{
+    justify-content: end;
     display: flex;
     width:30%;
     background-color: var(--sidebar-color);
